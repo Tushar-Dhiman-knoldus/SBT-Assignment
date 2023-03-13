@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(libraryDependencies, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: libraryDependencies[0m
+[0m[[0m[0minfo[0m] [0m[0m* org.scala-lang:scala-library:2.13.10[0m
+[0m[[0m[0minfo[0m] [0m[0m* joda-time:joda-time:2.12.2[0m
+[0m[[0m[0minfo[0m] [0m[0m* org.joda:joda-convert:2.2.2[0m
+[0m[[0m[0minfo[0m] [0m[0m* org.postgresql:postgresql:42.5.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
